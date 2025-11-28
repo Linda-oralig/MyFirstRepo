@@ -1,0 +1,6 @@
+
+Brief Introduction About Myself
+
+My name is Linda Liguru, and I am currently learning Git and GitHub as part of my ALX training. I am passionate about technology, creativity, and empowering young people through education and innovation.
+
+I created this file to introduce myself and begin practicing version control. I look forward to improving my skills and working on more exciting projects throughout this learning journey.
