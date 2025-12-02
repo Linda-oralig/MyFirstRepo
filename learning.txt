@@ -1,3 +1,5 @@
-So far, I have learned how to use Git and GitHub to manage projects efficiently. I now understand how to create repositories, make commits, and collaborate with others using branches and pull requests.
+What I have learned from this course
 
-This knowledge has helped me track changes in my work, resolve conflicts, and contribute to projects in a team setting effectively.
+So far, I have learned how to use Git and GitHub for version control, including creating repositories, making commits, and collaborating using pull requests.
+
+This knowledge has helped me understand how to track changes and work on projects with others efficiently.
