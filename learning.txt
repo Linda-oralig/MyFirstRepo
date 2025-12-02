@@ -1,1 +1,2 @@
-I have learned how to use Git, GitHub, and collaborate using branches and pull requests.
+So far, I have learned how to use Git and GitHub for version control, including creating repositories, making commits, and collaborating using pull requests.
+This knowledge has helped me understand how to track changes and work on projects with others efficiently.
